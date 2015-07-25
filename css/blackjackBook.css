@@ -2,10 +2,8 @@
     color: #ff0000;
 }
 
-.product-box {
-    
-    display:inline-block;
-    position:relative;
+.intro-actual {
+    text-shadow: 1px 1px 3px black;
 }
 
 .watch-look {
