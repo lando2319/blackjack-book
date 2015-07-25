@@ -2,3 +2,13 @@
     color: #ff0000;
 }
 
+.product-box {
+    
+    display:inline-block;
+    position:relative;
+}
+
+.watch-look {
+    border: 4px solid white;
+    border-radius: 25px;
+}
