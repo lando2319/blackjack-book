@@ -1,0 +1,12 @@
+.newHeading {
+    color: #ff0000;
+}
+
+.shadow-actual {
+    text-shadow: 1px 1px 3px black;
+}
+
+.watch-look {
+    border: 4px solid white;
+    border-radius: 25px;
+}
